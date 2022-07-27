@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/WebGeny/static/css/main.08fce0bc.css",
-    "main.js": "/WebGeny/static/js/main.c04c27fa.js",
+    "main.js": "/WebGeny/static/js/main.c43fc7a1.js",
     "static/js/787.e07f7627.chunk.js": "/WebGeny/static/js/787.e07f7627.chunk.js",
     "index.html": "/WebGeny/index.html",
     "main.08fce0bc.css.map": "/WebGeny/static/css/main.08fce0bc.css.map",
-    "main.c04c27fa.js.map": "/WebGeny/static/js/main.c04c27fa.js.map",
+    "main.c43fc7a1.js.map": "/WebGeny/static/js/main.c43fc7a1.js.map",
     "787.e07f7627.chunk.js.map": "/WebGeny/static/js/787.e07f7627.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.08fce0bc.css",
-    "static/js/main.c04c27fa.js"
+    "static/js/main.c43fc7a1.js"
   ]
 }
