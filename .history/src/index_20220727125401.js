@@ -4,7 +4,6 @@ import './index.css';
 import App from './App';
 import { NavBar } from './components/NavBar';
 import reportWebVitals from './reportWebVitals';
-import { Toaster } from 'react-hot-toast';
 import { BrowserRouter } from 'react-router-dom';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -12,7 +11,6 @@ root.render(
     <BrowserRouter>
     <NavBar />
     <App />
-    <Toaster />
     </BrowserRouter>
   </React.StrictMode>
 );
