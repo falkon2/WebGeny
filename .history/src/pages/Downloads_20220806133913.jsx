@@ -49,11 +49,11 @@ export const Downloads = () => {
                 {/* 3rd card */}
                 <div className='py-10 text-black hover:scale-110 transition-[0.5s]'>
                   <div className='rounded-lg overflow-hidden shadow-lg max-w-sm shadow-white bg-white'>
-                    <img src="https://1000logos.net/wp-content/uploads/2017/03/Symbol-Linux.jpg" alt='mountain' className='w-full'/>
+                    <img src="http://logo-logos.com/2017/07/Linux_Logo_01.jpg" alt='mountain' className='w-full'/>
                     <div className="px-6 py-4">
                       <div className='font-bold text-xl mb-2 text-center'>
                         Linux
-                      </div>
+                      </div>https://drive.google.com/drive/folders/1AqYDImkbqUQ4sjdD6LpsTR_H_IrQ2Sit?usp=sharing
                     </div>
                     <div className='justify-center items-center flex '>
                     <a href="https://drive.google.com/drive/folders/1AqYDImkbqUQ4sjdD6LpsTR_H_IrQ2Sit?usp=sharing"><button onClick={success}  className="bg-black  text-white w-[200px] transition-[0.5s] rounded-lg font-bold my-6 mx-auto py-3 ring-2 ring-white hover:ring-black hover:bg-black hover:shadow-xl hover:shadow-black hover:text-white hover:scale-110" >
