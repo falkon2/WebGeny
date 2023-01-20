@@ -21,7 +21,7 @@ export const Downloads = () => {
         
                     </div>
                     <div className='justify-center items-center flex '>
-                    <a href="https://drive.google.com/file/d/1DhPprgWNaFiiYRZqRWljQt8yV6pCjnKZ/view?usp=sharing"><button onClick={success} className="bg-white  text-black w-[200px] transition-[0.5s] rounded-lg font-bold my-6 mx-auto py-3 ring-2 ring-white hover:ring-black hover:bg-black  hover:shadow-xl hover:shadow-white hover:text-white hover:scale-110">
+                    <a href="https://drive.google.com/file/d/1wIRujHkihNA6-z8qGt_k3tozohbCPhtY/view?usp=sharing"><button onClick={success} className="bg-white  text-black w-[200px] transition-[0.5s] rounded-lg font-bold my-6 mx-auto py-3 ring-2 ring-white hover:ring-black hover:bg-black  hover:shadow-xl hover:shadow-white hover:text-white hover:scale-110">
                         Download
                       </button></a>
                     </div>
@@ -39,7 +39,7 @@ export const Downloads = () => {
         
                     </div>
                     <div className='justify-center items-center flex '>
-                      <a href="https://drive.google.com/file/d/1Hvl_y1mFqBp52Fj1X2e0-pIgv5XBV521/view?usp=sharing"><button onClick={success} className="bg-white  text-blue-600 w-[200px] transition-[0.5s] rounded-lg font-bold my-6 mx-auto py-3 ring-2 ring-white hover:ring-blue-700 hover:bg-blue-700 hover:shadow-xl hover:shadow-blue-700 hover:text-blue-200 hover:scale-110">
+                      <a href="https://drive.google.com/file/d/1JjMqdkkO3dpi5ZP0tQ7oSLjGXCCYXXVY/view?usp=sharing"><button onClick={success} className="bg-white  text-blue-600 w-[200px] transition-[0.5s] rounded-lg font-bold my-6 mx-auto py-3 ring-2 ring-white hover:ring-blue-700 hover:bg-blue-700 hover:shadow-xl hover:shadow-blue-700 hover:text-blue-200 hover:scale-110">
                         Download
                       </button></a>
                     </div>
