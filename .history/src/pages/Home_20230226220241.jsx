@@ -24,7 +24,7 @@ export const Home = () => {
           A website builder that is focused on <a className="underline text-indigo-600">design</a> and 
             <a className="underline text-indigo-600"> simplicity</a>
           </p>
-          <Link to="/WebGeny/downloads"><button className="bg-white text-black w-[200px] transition-[0.5s] rounded-lg font-bold my-6 mx-auto py-3 ring-2 ring-white hover:ring-indigo-600 hover:bg-indigo-600  hover:shadow-xl hover:shadow-indigo-700 hover:text-white hover:scale-110">
+          <Link to="/download"><button className="bg-white text-black w-[200px] transition-[0.5s] rounded-lg font-bold my-6 mx-auto py-3 ring-2 ring-white hover:ring-indigo-600 hover:bg-indigo-600  hover:shadow-xl hover:shadow-indigo-700 hover:text-white hover:scale-110">
             Download Now!
           </button></Link>
         </div>
