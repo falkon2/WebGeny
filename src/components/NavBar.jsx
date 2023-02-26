@@ -27,8 +27,8 @@ export const NavBar = () => {
         <div className={!isOpen ? 'fixed left-0 top-1 w-[60%] h-full border-r border-r-gray-800 bg-gray-900 ease-in-out duration-500' : 'fixed left-[-100%] ease-in-out duration-500'}>
         <img src={process.env.PUBLIC_URL+"/logo.png"} alt="none" className='w-9 left-0'/>
         <ul className='uppercase p-4'>
-        <NavLink to="/WebGeny" activeClassName="active" ><li className='p-4 border-b border-gray-700 hover:border-white hover:transition-[0.5s] hover:ease-in-out'>Home</li></NavLink>
-        <NavLink to="/WebGeny/about" activeClassName="active" ><li className='p-4 border-b border-gray-700 hover:border-white hover:transition-[0.5s] hover:ease-in-out'>About</li></NavLink>
+        <NavLink to="/" activeClassName="active" ><li className='p-4 border-b border-gray-700 hover:border-white hover:transition-[0.5s] hover:ease-in-out'>Home</li></NavLink>
+        <NavLink to="/about" activeClassName="active" ><li className='p-4 border-b border-gray-700 hover:border-white hover:transition-[0.5s] hover:ease-in-out'>About</li></NavLink>
         <a href="https://www.youtube.com/watch?v=68gU9V2xWRg&ab_channel=CodeCommerce" ><li className='p-4 border-b border-gray-700 hover:border-white hover:transition-[0.5s] hover:ease-in-out'>Host</li></a>
         <a href='https://www.youtube.com/watch?v=ysEN5RaKOlA&ab_channel=CoderCoder'><li className='p-4 hover:border-b hover:border-white hover:transition-[0.5s] hover:ease-in-out'>Tutorial</li></a>
         </ul>

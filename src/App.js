@@ -5,9 +5,9 @@ import { Downloads } from './pages/Downloads';
 function App() {
   return (
     <Routes>
-      <Route path="/WebGeny" element={<Home />} />
-      <Route path="/WebGeny/about" element={<About />} />
-      <Route path='/WebGeny/download' element={<Downloads />} />
+      <Route path="" element={<Home />} />
+      <Route path="/about" element={<About />} />
+      <Route path='/download' element={<Downloads />} />
     </Routes>
   );
 }
