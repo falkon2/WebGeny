@@ -12,6 +12,7 @@ root.render(
     <BrowserRouter>
     <NavBar />
     <App />
+
     <Toaster />
     </BrowserRouter>
   </React.StrictMode>

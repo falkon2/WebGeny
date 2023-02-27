@@ -1,9 +1,12 @@
 import React from 'react'
 import Typed from 'react-typed';
 import { Link } from 'react-router-dom';
+
+import  GoogleAds  from './components/GoogleAds';
 export const Home = () => {
   return (
     <div className="text-white font-poppins">
+          <GoogleAds />
         <div
           id="index"
           className="index max-w-[800px] mt-[-96px] w-full h-screen mx-auto text-center flex flex-col justify-center"
@@ -28,7 +31,6 @@ export const Home = () => {
             Download Now!
           </button></Link>
         </div>
-        
     </div>
   )
 }
