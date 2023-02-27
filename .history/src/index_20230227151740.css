@@ -5,7 +5,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
 
 body{
-  background-image: url("embed.png");
+  background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url("embed.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
