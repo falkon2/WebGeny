@@ -28,6 +28,7 @@ export const Home = () => {
             Download Now!
           </button></Link>
         </div>
+        
     </div>
   )
 }

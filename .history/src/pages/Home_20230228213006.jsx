@@ -1,6 +1,7 @@
 import React from 'react'
 import Typed from 'react-typed';
 import { Link } from 'react-router-dom';
+import AdsComponent from './../components/AdsComponent';
 export const Home = () => {
   return (
     <div className="text-white font-poppins">
@@ -28,6 +29,7 @@ export const Home = () => {
             Download Now!
           </button></Link>
         </div>
+        <AdsComponent data-ad-slot='7736929723' />
     </div>
   )
 }
