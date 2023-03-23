@@ -1,1 +1,1 @@
-A simple yet powerfull website builder.
+A simple yet powerfull website builder. ❤️🚀
