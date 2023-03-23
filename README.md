@@ -1,1 +1,3 @@
-Welcome to the WebGeny! Thank you and welcome for visiting WebGeny. WebGeny is a simple yet powerful website builder made with ❤️ WebGeny is currently in it's early stages and will continue to get more and more themes and features. We will continue push out more and more content for our all beloved website generator as more times goes by. ❤️🚀
+WebGeny is a revolutionary website builder designed by the people, for the people. This simple yet powerful tool allows you to create a stunning website in no time, without any prior coding knowledge. The best part? It's completely free! 🚀
+
+With WebGeny, you can choose from a variety of professionally designed templates, customize them to fit your brand, and add your own content with ease. The user-friendly interface makes it easy for anyone to create a beautiful and functional website, regardless of their technical expertise. ⚡🔥
